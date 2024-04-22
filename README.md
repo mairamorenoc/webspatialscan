@@ -1,6 +1,7 @@
 # R package for WebGIS application: webspatialscan
 To run this WebGIS application demo locally:
-1. Install and load R packages
+1. Get webspatialscan R package tar.gz file: https://drive.google.com/file/d/1fyy_MzayrXGKssxFrqyMwnpy3Ri-cSOV/view?usp=sharing
+2. Install and load R packages
 ```
 # install webspatialscan R package from tar.gz
 install.packages("webspatialscan.v1_0.0.0.9000.tar.gz", repos = NULL, type = "source")
