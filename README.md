@@ -12,8 +12,8 @@ library(opencpu)
 # Start opencpu server
 ocpu_start_server()
 ```
-2. Run the web application (available from the path __webspatialscan/inst/wwww/page_wms-up.html__ ) in your web browser
-3. Use the demo data (available from the path __webspatialscan/data__ ) to test the application
+3. Run the web application (available from the path __webspatialscan/inst/wwww/page_wms-up.html__ ) in your web browser
+4. Use the demo data (available from the path __webspatialscan/data__ ) to test the application
 
 ***NOTE:***
 * To run this WebGIS application, you must have the SatScan™ (1) desktop software installed on your computer.
