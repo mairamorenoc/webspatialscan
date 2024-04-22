@@ -1,4 +1,4 @@
-# Webspatialscan: an R package to enable spatial scan statistics on WebGIS applications  [![DOI](https://zenodo.org/badge/786540545.svg)](https://zenodo.org/doi/10.5281/zenodo.11036381)
+# Webspatialscan: an R package to enable Spatial Scan Statistics on WebGIS applications  [![DOI](https://zenodo.org/badge/786540545.svg)](https://zenodo.org/doi/10.5281/zenodo.11036381)
 
 To run this WebGIS application demo locally:
 1. Get the *Webspatialscan* R package tar.gz file: https://drive.google.com/file/d/1fyy_MzayrXGKssxFrqyMwnpy3Ri-cSOV/view?usp=sharing
