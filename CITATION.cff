@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Moreno Castillo"
+  given-names: "Maira Alejandra"
+  orcid: "https://orcid.org/0000-0002-2910-2970"
+title: "Webspatialscan R Package"
+version: 0.1.0
+doi: 10.5281/zenodo.11036382
+date-released: 2024-04-22
+url: "https://github.com/mairamorenoc/webspatialscan"
