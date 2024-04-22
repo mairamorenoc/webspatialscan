@@ -18,8 +18,8 @@ ocpu_start_server()
 * Use the __cases.data.csv__ file for *"Arquivo de casos"* field
 * Use the __pop.data.csv__ file for *"Arquivo de população"* field
 * Use the __geo.data.csv__ file for *"Arquivo de coordenadas"* field
-* Input __2017/1/1__ for *"Data início"* field
-* Input __2017/12/31__  for *"Data fim"* field
+* Input __2016/1/1__ for *"Data início"* field
+* Input __2016/12/31__  for *"Data fim"* field
 * Choose whether you want to identify areas with high or low rates
 * Set the maximum size of the spatial window
 
