@@ -5,7 +5,7 @@ authors:
   given-names: "Maira Alejandra"
   orcid: "https://orcid.org/0000-0002-2910-2970"
 title: "Webspatialscan R Package"
-version: 0.1.0
-doi: 10.5281/zenodo.11036382
-date-released: 2024-04-22
+version: 1.0.0
+doi: 10.5281/zenodo.11204542
+date-released: 2024-05-16
 url: "https://github.com/mairamorenoc/webspatialscan"
