@@ -4,7 +4,7 @@
 
 This R package for OpenCPU provides an interface between SatScan™ software and web-based GIS environments. 
 
-The spatial scan statistics proposed by Kulldorff (1997) and Kulldorff and Nagarwalla (1995), along with SatScan™ software are well known and widely used validated methods for disease clusters detection. The aim of webspatialscan is to allow developers to integrate spatial scan statistics on WebGIS applications for public health surveillance, often lacking of advanced spatial statistical analysis features. In addition to having functions to read CSV files and execute Kulldorff's spatial scan algorithms, webspatialscan also creates an interactive map widget that can be used as data visualization output to display the results to the users.
+The spatial scan statistics proposed by Kulldorff (1997) and Kulldorff and Nagarwalla (1995), along with SatScan™ software are well known and widely used validated methods for disease clusters detection. The aim of webspatialscan is to allow developers to integrate spatial scan statistics on WebGIS applications for public health surveillance, often lacking of advanced spatial statistical analysis features. In addition to having functions to read CSV files and execute Kulldorff's spatial scan algorithms, webspatialscan package also creates an interactive map widget that can be used as data visualization output to display the results to the users.
 
 # Contributing
 
